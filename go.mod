@@ -1,14 +1,14 @@
-module github.com/catalystsquad/go-notifications
+module github.com/catalystcommunity/go-notifications
 
 go 1.20
 
 require (
 	github.com/brianvoe/gofakeit/v6 v6.21.0
-	github.com/catalystsquad/app-utils-go v1.0.7
-	github.com/catalystsquad/go-scheduler v1.1.0
-	github.com/catalystsquad/grpc-base-go v1.0.5
-	github.com/catalystsquad/notifo-client-go v0.0.0-20230606212355-17ea96dc6a0e
-	github.com/catalystsquad/protos-go-notifications v1.0.0
+	github.com/catalystcommunity/app-utils-go v1.0.7
+	github.com/catalystcommunity/go-scheduler v1.1.0
+	github.com/catalystcommunity/grpc-base-go v1.0.5
+	github.com/catalystcommunity/notifo-client-go v0.0.0-20230606212355-17ea96dc6a0e
+	github.com/catalystcommunity/protos-go-notifications v1.0.0
 	github.com/deepmap/oapi-codegen v1.13.0
 	github.com/google/uuid v1.3.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2

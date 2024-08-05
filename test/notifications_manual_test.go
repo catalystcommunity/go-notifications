@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/brianvoe/gofakeit/v6"
-	"github.com/catalystsquad/go-notifications/internal"
-	notificationsv1alpha1 "github.com/catalystsquad/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
+	"github.com/catalystcommunity/go-notifications/internal"
+	notificationsv1alpha1 "github.com/catalystcommunity/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"

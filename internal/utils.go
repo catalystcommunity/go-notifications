@@ -3,8 +3,8 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/catalystsquad/go-scheduler/pkg"
-	notificationsv1alpha1 "github.com/catalystsquad/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
+	"github.com/catalystcommunity/go-scheduler/pkg"
+	notificationsv1alpha1 "github.com/catalystcommunity/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
 	"github.com/google/uuid"
 	"google.golang.org/protobuf/encoding/protojson"
 	"time"

@@ -1,7 +1,7 @@
 package notification_store
 
 import (
-	notificationsv1alpha1 "github.com/catalystsquad/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
+	notificationsv1alpha1 "github.com/catalystcommunity/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
 )
 
 var NotificationStore NotificationStoreInterface

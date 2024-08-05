@@ -3,10 +3,10 @@ package internal
 import (
 	"encoding/json"
 
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/go-notifications/notification_store"
-	"github.com/catalystsquad/go-scheduler/pkg"
-	notificationsv1alpha1 "github.com/catalystsquad/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/go-notifications/notification_store"
+	"github.com/catalystcommunity/go-scheduler/pkg"
+	notificationsv1alpha1 "github.com/catalystcommunity/protos-go-notifications/gen/proto/go/notifications/v1alpha1"
 	"google.golang.org/protobuf/encoding/protojson"
 )
 
