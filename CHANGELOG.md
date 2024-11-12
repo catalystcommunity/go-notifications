@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/catalystcommunity/go-notifications/compare/v1.1.1...v1.2.0) (2024-11-12)
+
+
+### Bug Fixes
+
+* move to catalystcommunity ([4d48b61](https://github.com/catalystcommunity/go-notifications/commit/4d48b61ba470ae1c50193a68e2921d409f9348f0))
+
+
+### Features
+
+* upgrade deps, go version ([#17](https://github.com/catalystcommunity/go-notifications/issues/17)) ([342c268](https://github.com/catalystcommunity/go-notifications/commit/342c268074cbdcabeac71dcf8a6da4d58aa4560e))
+
 ## [1.1.1](https://github.com/catalystcommunity/go-notifications/compare/v1.1.0...v1.1.1) (2023-06-06)
 
 
