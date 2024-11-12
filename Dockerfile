@@ -1,4 +1,4 @@
-FROM golang:1.18 as builder
+FROM golang:1.22 as builder
 
 WORKDIR /workspace
 # install grpc health probe
