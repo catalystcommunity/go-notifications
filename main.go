@@ -1,5 +1,5 @@
 /*
-Copyright © 2023 Catalyst Squad, Inc <info@catalystsquad.com>
+Copyright © 2025 Catalyst Community
 */
 package main
 
