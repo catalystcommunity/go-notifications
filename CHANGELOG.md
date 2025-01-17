@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/catalystcommunity/go-notifications/compare/v1.2.0...v1.2.1) (2025-01-17)
+
+
+### Bug Fixes
+
+* change to trigger release ([#18](https://github.com/catalystcommunity/go-notifications/issues/18)) ([fc06c88](https://github.com/catalystcommunity/go-notifications/commit/fc06c88f74d4d5da2e3bad7298f6258d30f26ccb))
+
 # [1.2.0](https://github.com/catalystcommunity/go-notifications/compare/v1.1.1...v1.2.0) (2024-11-12)
 
 
