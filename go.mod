@@ -17,7 +17,7 @@ require (
 	github.com/joomcode/errorx v1.1.0
 	github.com/json-iterator/go v1.1.12
 	github.com/nozzle/e v0.0.0-20220519044928-6c20ecc522b1
-	github.com/sirupsen/logrus v1.9.2
+	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.15.0
